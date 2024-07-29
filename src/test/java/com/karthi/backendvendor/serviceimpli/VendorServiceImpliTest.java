@@ -8,7 +8,7 @@ class VendorServiceImpliTest {
 
 	@Test
 	void testAddVendor() {
-		assertEquals("true", "true");
+		assertTrue(true);
 	}
 
 }
